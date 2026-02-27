@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Veil Updates</title>
+    <description>Veil — Privacy-first meeting recorder</description>
+    <language>en</language>
+    <item>
+      <title>Version 1.0.0</title>
+      <sparkle:version>3</sparkle:version>
+      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <pubDate>Thu, 27 Feb 2026 17:34:47 +0000</pubDate>
+      <enclosure
+        url="https://github.com/KarmaFounder/veil-releases/releases/download/v1.0.0/Veil-1.0.0.dmg"
+        sparkle:edSignature="j+w2hmbcFs57LY3XZLfyqWmv9EwWOBBMmOZ61jnztpQGr11CBmqP4sUiApCvmm050my4jia+fsJINRAH11vbCQ=="
+        length="265381836"
+        type="application/octet-stream"/>
+    </item>
+  </channel>
+</rss>
