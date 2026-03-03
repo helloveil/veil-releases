@@ -4,11 +4,11 @@
         <title>Veil</title>
         <item>
             <title>3.0.7</title>
-            <pubDate>Mon, 03 Mar 2026 14:30:00 +0200</pubDate>
-            <sparkle:version>5</sparkle:version>
+            <pubDate>Mon, 03 Mar 2026 15:30:00 +0200</pubDate>
+            <sparkle:version>6</sparkle:version>
             <sparkle:shortVersionString>3.0.7</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/helloveil/veil-releases/releases/download/v3.0.7/Veil-3.0.7.dmg" length="278407665" type="application/octet-stream" sparkle:edSignature="9G+ohlUoxHuHEKEpKFfJRvHy0yoqD/jNdtdrDUBisT+F1z2AC5tJseqVnY4KFy3BQqGAbXW2iU1PoDbF4xEzBA=="/>
+            <enclosure url="https://github.com/helloveil/veil-releases/releases/download/v3.0.7/Veil-3.0.7.dmg" length="278407488" type="application/octet-stream" sparkle:edSignature="9HHIEn3dnCLSjh1XpI7PXOsAzSkoitPIz/DAL0SFwNYnO0fLIQIhDXV6WaM6dnAyO9o2dl7WSVpotiWlfMTjDQ=="/>
         </item>
     </channel>
 </rss>
